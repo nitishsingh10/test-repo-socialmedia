@@ -4,6 +4,8 @@
 
 // ============ Data Models ============
 
+// starts here
+
 class Post {
     constructor(id, text, imageUrl, username, avatar, timestamp) {
         this.id = id;
